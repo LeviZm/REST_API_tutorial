@@ -1,0 +1,4 @@
+$kind: http-request
+url: Travel API
+method: GET
+order: 1773015824567
